@@ -18,14 +18,13 @@
       "package": "com.petcareplus.app",
       "versionCode": 1
     },
-    "plugins": [
-      "expo-router"
-    ],
-    "scheme": "petcareplus"
+    "plugins": ["expo-router"],
+    "scheme": "petcareplus",
+    "extra": {
+      "eas": {
+        "projectId": "74c07979-dbfc-42de-bd8d-1616a7bf46b7"
+      }
+    }
   }
 }
-"extra": {
-  "eas": {
-    "projectId": "74c07979-dbfc-42de-bd8d-1616a7bf46b7"
-  }
-}
+
