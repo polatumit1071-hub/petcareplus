@@ -24,3 +24,8 @@
     "scheme": "petcareplus"
   }
 }
+"extra": {
+  "eas": {
+    "projectId": "74c07979-dbfc-42de-bd8d-1616a7bf46b7"
+  }
+}
