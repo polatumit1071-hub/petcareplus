@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "PetCare+",
+    "slug": "petcareplus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0D1B2A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.petcareplus.app",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.petcareplus.app",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "petcareplus"
+  }
+}
